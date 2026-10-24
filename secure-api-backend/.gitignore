@@ -1,0 +1,3 @@
+# Local credentials and generated build output
+application-local.properties
+target/
